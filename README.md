@@ -23,8 +23,8 @@
   <!-- <a href="https://t.me/incredibleGAT" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp; -->
 </div>
-## Core Skills
 
+## SKills
 - ✨ <b>Framework</b> : MERN, MEAN, Wordpress, Laravel, Shopify, CI, Joomla, Magento, ROR, Drupal, etc.
 - ✨ <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Angular.js, Nuxt.js, Quasar
 - ✨ <b>BlockChain</b> : Web3.js, Ether.js, Wagmi, Hardhat, Truffle, Ethereum, Solana, DeFi, Dex, NFT
