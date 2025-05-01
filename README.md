@@ -22,22 +22,19 @@
   &nbsp;&nbsp;<b>live:.cid.ac2a86b2c85cf9b6</b>
 </div>
 <div align="center">
-  <span style="display: inline-flex; align-items: center; gap: 10px;">
     <a href="javascript:void(0)" alt="Discord">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40" />
     </a>
-    <b>ID: webdeveloper.goodfriend</b>
-  </span>
+    &nbsp;&nbsp;<b>ID: webdeveloper.goodfriend</b>
+</div>
+<div align="center"> 
+  <a href="https://join.slack.com/t/experienceddeveloper/shared_invite/zt-351g1yhv4-ljEB6DJ6HOj8Bah5fp7bRg" target="_blank" rel="noopener noreferrer"><img src="https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png" width="40" /></a>
+  &nbsp;&nbsp;<b>somrosomro911@gmail.com</b>
 </div>
    <!-- <a href="https://www.linkedin.com/in/josephanello/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png" width="40" /></a>
   &nbsp;&nbsp; -->
-  <a href="https://join.skype.com/invite/sWbX4AsPRVOP" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="javascript:void()" alt="Discord"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40" /> ID: webdeveloper.goodfriend</a>
-  &nbsp;&nbsp;
   <!-- <a href="https://t.me/incredibleGAT" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp; -->
-</div>
 
 ## SKills
 - ✨ <b>Framework</b> : ASP.net MVC, Wordpress, Laravel, MERN, MEAN, Shopify, CI, Joomla, Magento, ROR, Drupal, etc.
