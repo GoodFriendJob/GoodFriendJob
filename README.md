@@ -25,20 +25,20 @@
 </div>
 
 ## SKills
-- ✨ <b>Framework</b> : MERN, MEAN, Wordpress, Laravel, Shopify, CI, Joomla, Magento, ROR, Drupal, etc.
-- ✨ <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Angular.js, Nuxt.js, Quasar
-- ✨ <b>BlockChain</b> : Web3.js, Ether.js, Wagmi, Hardhat, Truffle, Ethereum, Solana, DeFi, Dex, NFT
-- ✨ <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
+- ✨ <b>Framework</b> : ASP.net MVC, Wordpress, Laravel, MERN, MEAN, Shopify, CI, Joomla, Magento, ROR, Drupal, etc.
+- ✨ <b>Languages</b> : React, Flutter, PHP, Python, Object C, VC/C++, Solidity, Rust, HTML5, CSS/SCSS/LESS,JavaScript, TypeScript, ReScript
+- ✨ <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Angular.js, Nuxt.js, Quasar, Bootstrap, TailwindCSS, Material UI, AntD, RSuit
 - ✨ <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django
+- ✨ <b>Mobile | Extra </b> : React, Fultter, Android JDK, Unity 3D
 - ✨ <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- ✨ <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
+- ✨ <b>BlockChain</b> : Web3.js, Ether.js, Wagmi, Hardhat, Truffle, Ethereum, Solana, DeFi, Dex, NFT
+
 
 ## Languages & Tools
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="45" src="https://www.andre-abt.com/content/1-home/vuex.svg"></code>
 <code><img height="45" src="https://bestofjs.org/logos/vuetify.svg"></code>
 <code><img height="45" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
