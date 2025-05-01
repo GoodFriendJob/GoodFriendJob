@@ -13,7 +13,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;8+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45" />
   </a>
 </p>
-
+<div align="center"> 
+   <a href="mailto:somrosomro911@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+  &nbsp;&nbsp;
+   <!-- <a href="https://www.linkedin.com/in/josephanello/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
+  &nbsp;&nbsp; -->
+  <a href="https://join.skype.com/invite/sWbX4AsPRVOP" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+  &nbsp;&nbsp;
+  <!-- <a href="https://t.me/incredibleGAT" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+  &nbsp;&nbsp; -->
+</div>
 ## Core Skills
 
 - ✨ <b>Framework</b> : MERN, MEAN, Wordpress, Laravel, Shopify, CI, Joomla, Magento, ROR, Drupal, etc.
@@ -58,15 +67,4 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" ></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="45" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/4b228024863997.5633b53b3205f.png"></code>
-<br><br>
-
-  <div align="center"> 
-   <a href="mailto:somrosomro911@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
-  &nbsp;&nbsp;
-   <!-- <a href="https://www.linkedin.com/in/josephanello/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
-  &nbsp;&nbsp; -->
-  <a href="https://join.skype.com/invite/sWbX4AsPRVOP" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
-  &nbsp;&nbsp;
-  <!-- <a href="https://t.me/incredibleGAT" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
-  &nbsp;&nbsp; -->
-</div>
+<br>
