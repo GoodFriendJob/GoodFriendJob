@@ -14,8 +14,13 @@
   </a>
 </p>
 <div align="center"> 
-   <a href="mailto:somrosomro911@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="40" /></a>
-  &nbsp;&nbsp;
+  <a href="mailto:somrosomro911@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="40" /></a>
+  &nbsp;&nbsp;<b>somrosomro911@gmail.com</b>
+</div>
+<div align="center"> 
+  <a href="https://join.skype.com/invite/sWbX4AsPRVOP" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="40" /></a>
+  &nbsp;&nbsp;<b>live:.cid.ac2a86b2c85cf9b6</b>
+</div>
    <!-- <a href="https://www.linkedin.com/in/josephanello/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png" width="40" /></a>
   &nbsp;&nbsp; -->
   <a href="https://join.skype.com/invite/sWbX4AsPRVOP" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="40" /></a>
