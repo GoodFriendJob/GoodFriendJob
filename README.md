@@ -14,11 +14,13 @@
   </a>
 </p>
 <div align="center"> 
-   <a href="mailto:somrosomro911@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+   <a href="mailto:somrosomro911@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="40" /></a>
   &nbsp;&nbsp;
-   <!-- <a href="https://www.linkedin.com/in/josephanello/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
+   <!-- <a href="https://www.linkedin.com/in/josephanello/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png" width="40" /></a>
   &nbsp;&nbsp; -->
-  <a href="https://join.skype.com/invite/sWbX4AsPRVOP" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+  <a href="https://join.skype.com/invite/sWbX4AsPRVOP" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="javascript:void()" alt="Discord"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40" /> ID: webdeveloper.goodfriend</a>
   &nbsp;&nbsp;
   <!-- <a href="https://t.me/incredibleGAT" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp; -->
