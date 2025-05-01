@@ -21,6 +21,14 @@
   <a href="https://join.skype.com/invite/sWbX4AsPRVOP" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="40" /></a>
   &nbsp;&nbsp;<b>live:.cid.ac2a86b2c85cf9b6</b>
 </div>
+<div align="center">
+  <span style="display: inline-flex; align-items: center; gap: 10px;">
+    <a href="javascript:void(0)" alt="Discord">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40" />
+    </a>
+    <b>ID: webdeveloper.goodfriend</b>
+  </span>
+</div>
    <!-- <a href="https://www.linkedin.com/in/josephanello/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png" width="40" /></a>
   &nbsp;&nbsp; -->
   <a href="https://join.skype.com/invite/sWbX4AsPRVOP" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="40" /></a>
