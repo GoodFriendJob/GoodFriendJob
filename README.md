@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Senior Developer with 12+ years experience
+  Senior Developer with 12+ Years Experience
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -59,21 +59,6 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="45" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/4b228024863997.5633b53b3205f.png"></code>
 <br><br>
-
-## Github Stats
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=t1nyTi&show_icons=true&&include_all_commits=true&count_private=true&theme=light&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=t1nyTi&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
-  </a>
-  
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=t1nyTi&column=7&theme=light"/>
-</p>
-</p>
-</details>
-
-
 
   <div align="center"> 
    <a href="mailto:somrosomro911@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
