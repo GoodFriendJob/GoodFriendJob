@@ -28,18 +28,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GoodFriendJob&show_icons=true&theme=radical" alt="Oleh's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoodFriendJob&theme=radical" alt="Oleh's GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodFriendJob&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
 ## SKills
 - ✨ <b>Framework</b> : ASP.net MVC, Wordpress, Laravel, MERN, MEAN, Shopify, CI, Joomla, Magento, ROR, Drupal, etc.
 - ✨ <b>Languages</b> : React, Flutter, PHP, Python, Object C, VC/C++, Solidity, Rust, HTML5, CSS/SCSS/LESS,JavaScript, TypeScript, ReScript
@@ -48,7 +36,6 @@
 - ✨ <b>Mobile | Extra </b> : React, Fultter, Android JDK, Unity 3D
 - ✨ <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
 - ✨ <b>BlockChain</b> : Web3.js, Ether.js, Wagmi, Hardhat, Truffle, Ethereum, Solana, DeFi, Dex, NFT
-
 
 ## Languages & Tools
 
@@ -84,3 +71,15 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="45" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/4b228024863997.5633b53b3205f.png"></code>
 <br>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GoodFriendJob&show_icons=true&theme=radical" alt="Oleh's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoodFriendJob&theme=radical" alt="Oleh's GitHub streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodFriendJob&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
