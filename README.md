@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   <a href="mailto:somrosomro911@gmail.com" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" alt="Email Icon" style="vertical-align:middle;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" alt="Email Icon" style="vertical-align:middle;" />
     &nbsp; <span style="vertical-align:middle; color:inherit;">somrosomro911@gmail.com</span>
   </a>
 </p>
