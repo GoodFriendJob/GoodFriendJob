@@ -13,9 +13,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;12+%2B%20Years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45" />
   </a>
 </p>
-
 ### 🌐 Connect with Me
-
 <p align="center">
   <a href="somrosomro911@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" /> &nbsp; somrosomro911@gmail.com</a>
 </p>
