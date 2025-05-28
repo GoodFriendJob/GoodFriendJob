@@ -16,7 +16,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="somrosomro911@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" /> &nbsp; somrosomro911@gmail.com</a>
 </p>
 
