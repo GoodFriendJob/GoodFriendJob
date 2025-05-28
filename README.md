@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Senior Developer with 12+ Years Experience
+  Experienced in Laravel | ASP.net | React | React Native | Wordpress | C# | Python | Java | Blockchain
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -13,28 +13,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;12+%2B%20Years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45" />
   </a>
 </p>
-<div align="center"> 
-  <a href="mailto:somrosomro911@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="40" /></a>
-  &nbsp;&nbsp;<b>somrosomro911@gmail.com</b>
-</div>
-<div align="center"> 
-  <a href="https://join.skype.com/invite/sWbX4AsPRVOP" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="40" /></a>
-  &nbsp;&nbsp;<b>live:.cid.ac2a86b2c85cf9b6</b>
-</div>
-<div align="center">
-    <a href="javascript:void(0)" alt="Discord">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40" />
-    </a>
-    &nbsp;&nbsp;<b>ID: webdeveloper.goodfriend</b>
-</div>
-<div align="center"> 
-  <a href="https://join.slack.com/t/experienceddeveloper/shared_invite/zt-351g1yhv4-ljEB6DJ6HOj8Bah5fp7bRg" target="_blank" rel="noopener noreferrer"><img src="https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png" width="40" /></a>
-  &nbsp;&nbsp;<b>somrosomro911@gmail.com</b>
-</div>
-   <!-- <a href="https://www.linkedin.com/in/josephanello/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png" width="40" /></a>
-  &nbsp;&nbsp; -->
-  <!-- <a href="https://t.me/incredibleGAT" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
-  &nbsp;&nbsp; -->
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="somrosomro911@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" />somrosomro911@gmail.com</a>
+  <!-- Add more social icons if needed -->
+</p>
 
 ## SKills
 - ✨ <b>Framework</b> : ASP.net MVC, Wordpress, Laravel, MERN, MEAN, Shopify, CI, Joomla, Magento, ROR, Drupal, etc.
