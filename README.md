@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Experienced in Laravel | ASP.net | React | React Native | Wordpress | C# | Python | Java | Blockchain
+  Experienced in Laravel | ASP.net | Wordpress | React | C# | Python | Blockchain
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
