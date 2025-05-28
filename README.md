@@ -9,12 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;12+%2B%20Years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45" />
-  </a>
 </p>
 <p align="center">
-  <a href="somrosomro911@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" /> &nbsp; somrosomro911@gmail.com</a>
+  <a href="mailto:somrosomro911@gmail.com" style="text-decoration:none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" alt="Email Icon" style="vertical-align:middle;" />
+    &nbsp; <span style="vertical-align:middle; color:inherit;">somrosomro911@gmail.com</span>
+  </a>
 </p>
 
 ---
