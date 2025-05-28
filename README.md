@@ -13,13 +13,31 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;12+%2B%20Years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45" />
   </a>
 </p>
-
+---
 ### 🌐 Connect with Me
 
 <p align="left">
   <a href="somrosomro911@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" /> &nbsp; somrosomro911@gmail.com</a>
 </p>
+### 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GoodFriendJob&theme=radical&margin-w=15&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GoodFriendJob&show_icons=true&theme=radical" alt="Oleh's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoodFriendJob&theme=radical" alt="Oleh's GitHub streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodFriendJob&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
 ## SKills
 - ✨ <b>Framework</b> : ASP.net MVC, Wordpress, Laravel, MERN, MEAN, Shopify, CI, Joomla, Magento, ROR, Drupal, etc.
 - ✨ <b>Languages</b> : React, Flutter, PHP, Python, Object C, VC/C++, Solidity, Rust, HTML5, CSS/SCSS/LESS,JavaScript, TypeScript, ReScript
