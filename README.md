@@ -14,23 +14,23 @@
 
 <h3>
   <a href="mailto:somrosomro911@gmail.com" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" alt="Email Icon" style="border-radius:50%;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" alt="Email Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">somrosomro911@gmail.com</span>
   </a> &nbsp; 
   <a href="https://discord.com/invite/BM3wenf4" target="_blank" style="text-decoration: none; margin-right: 30px; display: inline-flex; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051366.png" width="15" alt="Discord Icon" style="border-radius:50%;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051366.png" width="15" alt="Discord Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Discord</span>
   </a> &nbsp; 
   <a href="https://teams.microsoft.com/l/chat/0/0?users=friendchat0707@outlook.com" target="_blank" style="text-decoration: none; margin-right: 30px; display: inline-flex; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919829.png" width="15" alt="Teams Icon" style="border-radius:50%;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919829.png" width="15" alt="Teams Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Teams</span>
   </a> &nbsp; 
   <a href="https://wa.me/+14125133816" target="_blank" style="text-decoration: none; margin-right: 30px; display: inline-flex; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="15" alt="WhatsApp Icon" style="border-radius:50%;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="15" alt="WhatsApp Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">WhatsApp</span>
   </a> &nbsp; 
   <a href="https://slack.com/app_redirect?channel=YourChannel" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111674.png" width="25" alt="Slack Icon" style="border-radius:50%;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111674.png" width="15" alt="Slack Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Slack</span>
   </a>
 </h3>
