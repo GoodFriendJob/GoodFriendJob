@@ -10,44 +10,41 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;12+%2B%20Years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45" />
 </p>
 
-### I am available 24/7
-<p>
-  You can find me anytime through the following channels! Reach out and let's connect. 🚀
-</p>
-  
-<h3 align="center">
+## I am available 24/7
 
-  <!-- Email Link -->
-  <a href="mailto:somrosomro911@gmail.com" style="text-decoration: none; margin-right: 30px; display: inline-flex; align-items: center;">
+<h3>
+  <a href="mailto:somrosomro911@gmail.com" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" alt="Email Icon" style="border-radius:50%;" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">somrosomro911@gmail.com</span>
   </a>
-  
-  <!-- Discord Link -->
+</h3>
+<h3>
   <a href="https://discord.com/invite/BM3wenf4" target="_blank" style="text-decoration: none; margin-right: 30px; display: inline-flex; align-items: center;">
     <img src="https://cdn-icons-png.flaticon.com/512/1051/1051366.png" width="15" alt="Discord Icon" style="border-radius:50%;" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Discord</span>
   </a>
-
-  <!-- Teams Link -->
+</h3>
+<h3>
   <a href="https://teams.microsoft.com/l/chat/0/0?users=friendchat0707@outlook.com" target="_blank" style="text-decoration: none; margin-right: 30px; display: inline-flex; align-items: center;">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919829.png" width="15" alt="Teams Icon" style="border-radius:50%;" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Teams</span>
-  </a> 
-
-  <!-- WhatsApp Link -->
+  </a>
+</h3>
+<h3>
   <a href="https://wa.me/+14125133816" target="_blank" style="text-decoration: none; margin-right: 30px; display: inline-flex; align-items: center;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="15" alt="WhatsApp Icon" style="border-radius:50%;" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">WhatsApp</span>
   </a>
-
-  <!-- Slack Link -->
+</h3>
+<h3>
   <a href="https://slack.com/app_redirect?channel=YourChannel" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111674.png" width="25" alt="Slack Icon" style="border-radius:50%;" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Slack</span>
   </a>
-
 </h3>
+<p>
+  You can find me anytime through the following channels! Reach out and let's connect. 🚀
+</p>
 
 ---
 ## SKills
