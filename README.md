@@ -9,9 +9,9 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;12+%2B%20Years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45" />
 </p>
-
-## I am available 24/7
-
+<p>
+  I am available 24/7. You can find me anytime through the following channels! Reach out and let's connect. 🚀
+</p>
 <h3>
   <a href="mailto:somrosomro911@gmail.com" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" alt="Email Icon" />
@@ -34,9 +34,6 @@
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Slack</span>
   </a>
 </h3>
-<p>
-  You can find me anytime through the following channels! Reach out and let's connect. 🚀
-</p>
 
 ---
 ## SKills
