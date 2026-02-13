@@ -19,13 +19,6 @@
 </p>
 
 ---
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GoodFriendJob&theme=radical&margin-w=15&no-bg=true&no-frame=true" />
-</p>
-
----
 ## SKills
 - ✨ <b>Framework</b> : ASP.net MVC, Wordpress, Laravel, MERN, MEAN, Shopify, CI, Joomla, Magento, ROR, Drupal, etc.
 - ✨ <b>Languages</b> : React, Flutter, PHP, Python, Object C, VC/C++, Solidity, Rust, HTML5, CSS/SCSS/LESS,JavaScript, TypeScript, ReScript
@@ -75,9 +68,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GoodFriendJob&show_icons=true&theme=radical" alt="Oleh's GitHub stats"/>
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoodFriendJob&theme=radical" alt="Oleh's GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodFriendJob&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
