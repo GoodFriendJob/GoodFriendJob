@@ -29,7 +29,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="15" alt="WhatsApp Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">WhatsApp</span>
   </a> &nbsp; &nbsp; 
-  <a href="https://slack.com/app_redirect?channel=YourChannel" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center;">
+  <a href="https://join.slack.com/t/experienceddeveloper/shared_invite/zt-3q288vwiq-na3EMMYsoZBHyCfnFB_TiQ" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111674.png" width="15" alt="Slack Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Slack</span>
   </a>
