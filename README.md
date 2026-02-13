@@ -10,35 +10,34 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;12+%2B%20Years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45" />
 </p>
 
-<!-- Beautiful Advertising Text -->
-<p style="font-size: 20px; font-weight: bold; color: #333; margin-bottom: 30px; line-height: 1.5;">
-  <span style="font-size: 24px; color: #4CAF50;">I am available 24/7.</span><br>
+### I am available 24/7
+<p>
   You can find me anytime through the following channels! Reach out and let's connect. 🚀
 </p>
   
-<p align="center" style="font-family: 'Arial', sans-serif;">
+<h3 align="center">
 
   <!-- Email Link -->
   <a href="mailto:somrosomro911@gmail.com" style="text-decoration: none; margin-right: 30px; display: inline-flex; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="25" alt="Email Icon" style="border-radius:50%;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" alt="Email Icon" style="border-radius:50%;" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">somrosomro911@gmail.com</span>
   </a>
   
   <!-- Discord Link -->
   <a href="https://discord.com/invite/BM3wenf4" target="_blank" style="text-decoration: none; margin-right: 30px; display: inline-flex; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051366.png" width="25" alt="Discord Icon" style="border-radius:50%;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051366.png" width="15" alt="Discord Icon" style="border-radius:50%;" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Discord</span>
   </a>
 
   <!-- Teams Link -->
   <a href="https://teams.microsoft.com/l/chat/0/0?users=friendchat0707@outlook.com" target="_blank" style="text-decoration: none; margin-right: 30px; display: inline-flex; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919829.png" width="25" alt="Teams Icon" style="border-radius:50%;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919829.png" width="15" alt="Teams Icon" style="border-radius:50%;" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Teams</span>
-  </a>
+  </a> 
 
   <!-- WhatsApp Link -->
   <a href="https://wa.me/+14125133816" target="_blank" style="text-decoration: none; margin-right: 30px; display: inline-flex; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="25" alt="WhatsApp Icon" style="border-radius:50%;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="15" alt="WhatsApp Icon" style="border-radius:50%;" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">WhatsApp</span>
   </a>
 
@@ -48,7 +47,7 @@
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Slack</span>
   </a>
 
-</p>
+</h3>
 
 ---
 ## SKills
