@@ -12,13 +12,11 @@
 
 ## I am available 24/7
 
-- <h3>
+<h3>
   <a href="mailto:somrosomro911@gmail.com" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" alt="Email Icon" style="border-radius:50%;" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">somrosomro911@gmail.com</span>
-  </a>
-</h3>
-<h3>
+  </a> &nbsp; 
   <a href="https://discord.com/invite/BM3wenf4" target="_blank" style="text-decoration: none; margin-right: 30px; display: inline-flex; align-items: center;">
     <img src="https://cdn-icons-png.flaticon.com/512/1051/1051366.png" width="15" alt="Discord Icon" style="border-radius:50%;" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Discord</span>
