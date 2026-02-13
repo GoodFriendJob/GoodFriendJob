@@ -12,7 +12,7 @@
 
 ## I am available 24/7
 
-<h3>
+- <h3>
   <a href="mailto:somrosomro911@gmail.com" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" alt="Email Icon" style="border-radius:50%;" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">somrosomro911@gmail.com</span>
