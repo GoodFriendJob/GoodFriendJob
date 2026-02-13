@@ -9,10 +9,36 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;12+%2B%20Years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45" />
 </p>
+
 <p align="center">
-  <a href="mailto:somrosomro911@gmail.com" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" alt="Email Icon" style="vertical-align:middle;" />
-    &nbsp; <span style="vertical-align:middle; color:inherit;">somrosomro911@gmail.com</span>
+  <!-- Email Link -->
+  <a href="mailto:test@gmail.com" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email Icon" style="vertical-align:middle; border-radius:50%;" />
+    <span style="vertical-align:middle; color:inherit; font-weight:bold; font-size: 16px; padding-left: 8px;">test@gmail.com</span>
+  </a>
+  
+  <!-- Discord Link -->
+  <a href="https://discord.com/users/YourUserID" target="_blank" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051366.png" width="30" alt="Discord Icon" style="vertical-align:middle; border-radius:50%;" />
+    <span style="vertical-align:middle; color:inherit; font-weight:bold; font-size: 16px; padding-left: 8px;">Discord</span>
+  </a>
+
+  <!-- Teams Link -->
+  <a href="https://teams.microsoft.com/l/chat/0/0?users=YourEmail" target="_blank" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919829.png" width="30" alt="Teams Icon" style="vertical-align:middle; border-radius:50%;" />
+    <span style="vertical-align:middle; color:inherit; font-weight:bold; font-size: 16px; padding-left: 8px;">Teams</span>
+  </a>
+
+  <!-- WhatsApp Link -->
+  <a href="https://wa.me/YourPhoneNumber" target="_blank" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" alt="WhatsApp Icon" style="vertical-align:middle; border-radius:50%;" />
+    <span style="vertical-align:middle; color:inherit; font-weight:bold; font-size: 16px; padding-left: 8px;">WhatsApp</span>
+  </a>
+
+  <!-- Slack Link -->
+  <a href="https://slack.com/app_redirect?channel=YourChannel" target="_blank" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111674.png" width="30" alt="Slack Icon" style="vertical-align:middle; border-radius:50%;" />
+    <span style="vertical-align:middle; color:inherit; font-weight:bold; font-size: 16px; padding-left: 8px;">Slack</span>
   </a>
 </p>
 
