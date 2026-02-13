@@ -12,7 +12,7 @@
 <p align="center">
   I am available 24/7. You can find me anytime through the following channels! Reach out and let's connect. 🚀
 </p>
-<h3 align="center">
+<h5 align="center">
   <a href="mailto:somrosomro911@gmail.com" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" alt="Email Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">somrosomro911@gmail.com</span>
@@ -33,7 +33,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111674.png" width="15" alt="Slack Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Slack</span>
   </a>
-</h3>
+</h5>
 
 ---
 ## SKills
