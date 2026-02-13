@@ -10,14 +10,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;12+%2B%20Years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45" />
 </p>
 
+<!-- Beautiful Advertising Text -->
+<p style="font-size: 20px; font-weight: bold; color: #333; margin-bottom: 30px; line-height: 1.5;">
+  <span style="font-size: 24px; color: #4CAF50;">I am available 24/7.</span><br>
+  You can find me anytime through the following channels! Reach out and let's connect. 🚀
+</p>
+  
 <p align="center" style="font-family: 'Arial', sans-serif;">
-
-  <!-- Beautiful Advertising Text -->
-  <p style="font-size: 20px; font-weight: bold; color: #333; margin-bottom: 30px; line-height: 1.5;">
-    <span style="font-size: 24px; color: #4CAF50;">I am available 24/7.</span><br>
-    You can find me anytime through the following channels! Reach out and let's connect. 🚀
-  </p>
-
   <!-- Email Link -->
   <a href="mailto:test@gmail.com" style="text-decoration:none; margin: 0 30px; display: inline-flex; align-items: center;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email Icon" style="border-radius:50%;" />
