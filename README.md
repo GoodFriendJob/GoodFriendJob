@@ -17,34 +17,35 @@
 </p>
   
 <p align="center" style="font-family: 'Arial', sans-serif;">
+
   <!-- Email Link -->
-  <a href="mailto:test@gmail.com" style="text-decoration:none; margin: 0 30px; display: inline-flex; align-items: center;">
+  <a href="mailto:test@gmail.com" style="text-decoration:none; margin: 0 30px; display: inline-flex; align-items: center; height: 40px;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email Icon" style="border-radius:50%;" />
-    <span style="color:inherit; font-weight: bold; font-size: 18px; margin-left: 15px; line-height: 40px;">test@gmail.com</span>
+    <span style="color:inherit; font-weight: bold; font-size: 18px; margin-left: 15px; display: flex; align-items: center;">test@gmail.com</span>
   </a>
   
   <!-- Discord Link -->
-  <a href="https://discord.com/users/YourUserID" target="_blank" style="text-decoration:none; margin: 0 30px; display: inline-flex; align-items: center;">
+  <a href="https://discord.com/users/YourUserID" target="_blank" style="text-decoration:none; margin: 0 30px; display: inline-flex; align-items: center; height: 40px;">
     <img src="https://cdn-icons-png.flaticon.com/512/1051/1051366.png" width="40" alt="Discord Icon" style="border-radius:50%;" />
-    <span style="color:inherit; font-weight: bold; font-size: 18px; margin-left: 15px; line-height: 40px;">Discord</span>
+    <span style="color:inherit; font-weight: bold; font-size: 18px; margin-left: 15px; display: flex; align-items: center;">Discord</span>
   </a>
 
   <!-- Teams Link -->
-  <a href="https://teams.microsoft.com/l/chat/0/0?users=YourEmail" target="_blank" style="text-decoration:none; margin: 0 30px; display: inline-flex; align-items: center;">
+  <a href="https://teams.microsoft.com/l/chat/0/0?users=YourEmail" target="_blank" style="text-decoration:none; margin: 0 30px; display: inline-flex; align-items: center; height: 40px;">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919829.png" width="40" alt="Teams Icon" style="border-radius:50%;" />
-    <span style="color:inherit; font-weight: bold; font-size: 18px; margin-left: 15px; line-height: 40px;">Teams</span>
+    <span style="color:inherit; font-weight: bold; font-size: 18px; margin-left: 15px; display: flex; align-items: center;">Teams</span>
   </a>
 
   <!-- WhatsApp Link -->
-  <a href="https://wa.me/YourPhoneNumber" target="_blank" style="text-decoration:none; margin: 0 30px; display: inline-flex; align-items: center;">
+  <a href="https://wa.me/YourPhoneNumber" target="_blank" style="text-decoration:none; margin: 0 30px; display: inline-flex; align-items: center; height: 40px;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" alt="WhatsApp Icon" style="border-radius:50%;" />
-    <span style="color:inherit; font-weight: bold; font-size: 18px; margin-left: 15px; line-height: 40px;">WhatsApp</span>
+    <span style="color:inherit; font-weight: bold; font-size: 18px; margin-left: 15px; display: flex; align-items: center;">WhatsApp</span>
   </a>
 
   <!-- Slack Link -->
-  <a href="https://slack.com/app_redirect?channel=YourChannel" target="_blank" style="text-decoration:none; margin: 0 30px; display: inline-flex; align-items: center;">
+  <a href="https://slack.com/app_redirect?channel=YourChannel" target="_blank" style="text-decoration:none; margin: 0 30px; display: inline-flex; align-items: center; height: 40px;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111674.png" width="40" alt="Slack Icon" style="border-radius:50%;" />
-    <span style="color:inherit; font-weight: bold; font-size: 18px; margin-left: 15px; line-height: 40px;">Slack</span>
+    <span style="color:inherit; font-weight: bold; font-size: 18px; margin-left: 15px; display: flex; align-items: center;">Slack</span>
   </a>
 
 </p>
