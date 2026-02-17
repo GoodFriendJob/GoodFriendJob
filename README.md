@@ -37,13 +37,12 @@
 
 ---
 ## SKills
-- ✨ <b>Framework</b> : ASP.net MVC, Wordpress, Laravel, MERN, MEAN, Shopify, CI, Joomla, Magento, ROR, Drupal, etc.
-- ✨ <b>Languages</b> : React, Flutter, PHP, Python, Object C, VC/C++, Solidity, Rust, HTML5, CSS/SCSS/LESS,JavaScript, TypeScript, ReScript
-- ✨ <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Angular.js, Nuxt.js, Quasar, Bootstrap, TailwindCSS, Material UI, AntD, RSuit
-- ✨ <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django
-- ✨ <b>Mobile | Extra </b> : React, Fultter, Android JDK, Unity 3D
+- ✨ <b>Web Framework</b> : ASP.net MVC, Laravel, Wordpress, Shopify
+- ✨ <b>Languages</b> : PHP, React, Flutter, C, C#, VC/C++, Python
+- ✨ <b>Frontend</b> : React/Next.js, Angular.js, Nuxt.js, Bootstrap, TailwindCSS, Material UI, AntD
+- ✨ <b>Mobile</b> : React Native, Fultter, Android JDK
 - ✨ <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- ✨ <b>BlockChain</b> : Web3.js, Ether.js, Wagmi, Hardhat, Truffle, Ethereum, Solana, DeFi, Dex, NFT
+- ✨ <b>AI</b> : AI model, n8n, RetellAI
 
 ## Languages & Tools
 
