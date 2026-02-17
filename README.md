@@ -41,7 +41,7 @@
 - ✨ <b>Languages</b> : PHP, React, Flutter, C, C#, VC/C++, Python
 - ✨ <b>Frontend</b> : React/Next.js, Angular.js, Nuxt.js, Bootstrap, TailwindCSS, Material UI, AntD
 - ✨ <b>Mobile</b> : React Native, Fultter, Android JDK
-- ✨ <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
+- ✨ <b>Database</b> : MySQL, MongoDB, PostgreSQL, Firebase, MariaDB, SQLite, Solr
 - ✨ <b>AI</b> : AI model, n8n, RetellAI
 
 ## Languages & Tools
