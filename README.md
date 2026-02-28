@@ -10,7 +10,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;12+%2B%20Years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45" />
 </p>
 <p align="center">
-  I am available 24/7. You can find me anytime through the following channels! Reach out and let's connect. 🚀
+I am available 24/7, and you’re welcome to reach me anytime through the channels below.<br>
+Simply click on any of the icons to connect with me instantly.🚀
 </p>
 <h5 align="center">
   <a href="mailto:somrosomro911@gmail.com">
