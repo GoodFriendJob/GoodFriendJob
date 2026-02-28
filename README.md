@@ -11,7 +11,7 @@
 </p>
 <p align="center">
 I am available 24/7, and you’re welcome to reach me anytime through the channels below.<br>
-<b>Simply click</b> on any of the icons to connect with me instantly.🚀
+<b>Simply click</b> on any of the icons to connect with me instantly. 🚀
 </p>
 <h5 align="center">
   <a href="mailto:somrosomro911@gmail.com">
