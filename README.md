@@ -30,7 +30,7 @@ I am available 24/7, and you’re welcome to reach me anytime through the channe
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="15" alt="WhatsApp Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">WhatsApp</span>
   </a> &nbsp; &nbsp; 
-  <a href="https://join.slack.com/t/experienceddeveloper/shared_invite/zt-3q288vwiq-na3EMMYsoZBHyCfnFB_TiQ" target="_blank">
+  <a href="https://join.slack.com/t/experienceddeveloper/shared_invite/zt-3uxhdmdde-w1zoXsWREGsr5N0o2OArjA" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111674.png" width="15" alt="Slack Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Slack</span>
   </a>
