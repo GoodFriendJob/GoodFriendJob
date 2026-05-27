@@ -38,10 +38,10 @@ I am available 24/7, and you’re welcome to reach me anytime through the channe
 
 ---
 ## SKills
-- ✨ <b>Web Framework</b> : ASP.net MVC, Laravel, Wordpress, Shopify
-- ✨ <b>Languages</b> : PHP, React, Flutter, C, C#, VC/C++, Python
-- ✨ <b>Frontend</b> : React/Next.js, Angular.js, Nuxt.js, Bootstrap, TailwindCSS, Material UI, AntD
-- ✨ <b>Mobile</b> : React Native, Fultter, Android JDK
+- ✨ <b>Web Framework</b> : ASP.net/C#, Laravel, Framer, Wordpress, Wix, Shopify, Magento
+- ✨ <b>Languages</b> : PHP, React, Flutter, C, C#, VC/C++, VB, Python
+- ✨ <b>Frontend</b> : Three.js, React/Next.js, Angular.js, Nuxt.js, Bootstrap, TailwindCSS, Material UI, AntD
+- ✨ <b>Mobile</b> : React Native, Fultter, Android JDK, IOS
 - ✨ <b>Database</b> : MySQL, MongoDB, PostgreSQL, Firebase, MariaDB, SQLite, Solr
 - ✨ <b>AI</b> : AI model, n8n, RetellAI
 
