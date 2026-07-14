@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⭐ Senior Software Engineer ⭐
+  ⭐ Senior Software Engineer ⭐ <br>
   (CRM | Web | Mobile | AI Automation)
 </h1>
 
