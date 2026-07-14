@@ -38,6 +38,7 @@ I am available 24/7, and you’re welcome to reach me anytime through the channe
 
 ---
 ## SKills
+- ✨ <b>CRM & Marketing Automation</b> : Hubspot, GoHighLevel
 - ✨ <b>Web Framework</b> : ASP.net/C#, Laravel, Framer, Wordpress, Wix, Shopify, Magento
 - ✨ <b>Languages</b> : PHP, React, Flutter, C, C#, VC/C++, VB, Python
 - ✨ <b>Frontend</b> : Three.js, React/Next.js, Angular.js, Nuxt.js, Bootstrap, TailwindCSS, Material UI, AntD
