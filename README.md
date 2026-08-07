@@ -28,7 +28,7 @@ I am available 24/7, and you’re welcome to reach me anytime through the channe
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Telegram</span>
   </a> &nbsp; &nbsp; 
   <a href="https://teams.microsoft.com/l/chat/0/0?users=friendchat0707@outlook.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/microsoftteams/6264A7" width="15" alt="Teams Icon" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftteams.svg" width="15" alt="Teams Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Teams</span>
   </a> &nbsp; &nbsp; 
   <a href="https://wa.me/+14125133816" target="_blank">
