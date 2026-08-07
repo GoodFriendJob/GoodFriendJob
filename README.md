@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Oleh 👋</h1>
-<h3 align="center">⭐ Senior Software Engineer ⭐</h3>
+<h1 align="center">⭐ Senior Software Engineer ⭐</h1>
 <p align="center">Web · Mobile · CRM · AI Automation</p>
 
 <p align="center">
