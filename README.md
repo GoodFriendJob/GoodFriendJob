@@ -36,7 +36,7 @@ I am available 24/7, and you’re welcome to reach me anytime through the channe
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">WhatsApp</span>
   </a> &nbsp; &nbsp; 
   <a href="https://join.slack.com/t/experienceddeveloper/shared_invite/zt-3uxhdmdde-w1zoXsWREGsr5N0o2OArjA" target="_blank">
-    <img src="https://cdn.simpleicons.org/slack/4A154B" width="15" alt="Slack Icon" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/slack.svg" width="15" alt="Slack Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Slack</span>
   </a>
 </h5>
