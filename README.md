@@ -1,5 +1,5 @@
 <h1 align="center">⭐ Senior Software Engineer ⭐</h1>
-<p align="center">Web · Mobile · CRM · AI Automation</p>
+<h5 align="center">Web · Mobile · CRM · AI Automation</h5>
 
 <p align="center">
   <img src="https://github.com/IceDev528/IceDev528/blob/main/Logo.gif" width="600"/>
@@ -7,10 +7,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;12%2B+Years+of+Experience;Passionate+%26+Creative+Problem+Solver;Available+24%2F7+%E2%80%93+Let's+Build+Something+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GoodFriendJob&style=for-the-badge&color=2CA5E0" alt="Profile views"/>
 </p>
 
 ---
@@ -43,12 +39,12 @@
 ### 🛠️ Core Skills
 
 - ✨ **CRM & Marketing Automation** — HubSpot, GoHighLevel
-- ✨ **Web Frameworks** — ASP.NET/C#, Laravel, Framer, WordPress, Wix, Shopify, Magento
-- ✨ **Languages** — PHP, C, C#, VC/C++, VB, Python
+- ✨ **Web Frameworks** — Shopify, ASP.NET/C#, Laravel, WordPress, Framer, Wix, Magento, WebFlow, Drupal
+- ✨ **Languages** — PHP, C#, VC/C++, VB, Java, Python, QT
 - ✨ **Frontend** — Three.js, React/Next.js, Angular.js, Nuxt.js, Bootstrap, Tailwind CSS, Material UI, Ant Design
 - ✨ **Mobile** — React Native, Flutter, Android (JDK), iOS
 - ✨ **Database** — MySQL, MongoDB, PostgreSQL, Firebase, MariaDB, SQLite, Solr
-- ✨ **AI** — AI Model Integration, n8n, Retell AI
+- ✨ **AI Automation** — AI Model Integration, n8n, Retell AI
 
 ---
 
