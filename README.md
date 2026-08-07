@@ -23,6 +23,10 @@ I am available 24/7, and you’re welcome to reach me anytime through the channe
     <img src="https://cdn-icons-png.flaticon.com/512/1051/1051366.png" width="15" alt="Discord Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Discord</span>
   </a> &nbsp; &nbsp; 
+  <a href="https://t.me/good_friend_job" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram" width="15" alt="Discord Icon" />
+    <span style="margin-left: 10px; font-size: 18px; color:inherit;">Telegram</span>
+  </a> &nbsp; &nbsp; 
   <a href="https://teams.microsoft.com/l/chat/0/0?users=friendchat0707@outlook.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919829.png" width="15" alt="Teams Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Teams</span>
