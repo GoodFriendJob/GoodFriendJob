@@ -20,15 +20,15 @@ I am available 24/7, and you’re welcome to reach me anytime through the channe
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">somrosomro911@gmail.com</span>
   </a> &nbsp; &nbsp; 
   <a href="https://discord.com/invite/BM3wenf4" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051366.png" width="15" alt="Discord Icon" />
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="15" alt="Discord Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Discord</span>
   </a> &nbsp; &nbsp; 
   <a href="https://t.me/good_friend_job" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram" width="15" alt="Discord Icon" />
+    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="15" alt="Discord Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Telegram</span>
   </a> &nbsp; &nbsp; 
   <a href="https://teams.microsoft.com/l/chat/0/0?users=friendchat0707@outlook.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919829.png" width="15" alt="Teams Icon" />
+    <img src="https://cdn.simpleicons.org/microsoftteams/6264A7" width="15" alt="Teams Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Teams</span>
   </a> &nbsp; &nbsp; 
   <a href="https://wa.me/+14125133816" target="_blank">
@@ -36,7 +36,7 @@ I am available 24/7, and you’re welcome to reach me anytime through the channe
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">WhatsApp</span>
   </a> &nbsp; &nbsp; 
   <a href="https://join.slack.com/t/experienceddeveloper/shared_invite/zt-3uxhdmdde-w1zoXsWREGsr5N0o2OArjA" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111674.png" width="15" alt="Slack Icon" />
+    <img src="https://cdn.simpleicons.org/slack/4A154B" width="15" alt="Slack Icon" />
     <span style="margin-left: 10px; font-size: 18px; color:inherit;">Slack</span>
   </a>
 </h5>
