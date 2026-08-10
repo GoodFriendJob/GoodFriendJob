@@ -26,7 +26,7 @@
   <a href="https://teams.microsoft.com/l/chat/0/0?users=friendchat0707@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Teams"/>
   </a>
-  <a href="https://wa.me/14125133816" target="_blank">
+  <a href="https://wa.me/12547885105" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://join.slack.com/t/experienceddeveloper/shared_invite/zt-3uxhdmdde-w1zoXsWREGsr5N0o2OArjA" target="_blank">
